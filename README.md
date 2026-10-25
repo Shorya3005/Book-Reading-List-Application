@@ -32,7 +32,7 @@ The application allows users to maintain a personal reading list. Users can add 
 
 ## Live Demo
 
-Deployed link will be added after Vercel deployment.
+Live Demo: https://book-reading-list-application-henna.vercel.app
 
 ## Author
 
